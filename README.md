@@ -1,10 +1,6 @@
 # Mann Ki Baat Text Generator
 
-This project creates a text generation model based on the "Mann Ki Baat" speeches delivered by the Prime Minister of India. Using data scraped from [www.pmindia.gov.in](https://www.pmindia.gov.in/), the model generates coherent and contextually relevant text.
-
-## Project Overview
-
-The goal of this project is to leverage text data from the "Mann Ki Baat" series to build a model capable of generating text that mimics the style and themes of these speeches. The process involves several key steps:
+This project creates a text generation model based on the "Mann Ki Baat" speeches delivered by the Prime Minister of India. Using data scraped from [www.pmindia.gov.in](https://www.pmindia.gov.in/), the model generates coherent and contextually relevant text.The goal of this project is to leverage text data from the "Mann Ki Baat" series to build a model capable of generating text that mimics the style and themes of these speeches. The process involves several key steps:
 
 1. **Data Collection**:
    - The data is scraped from the [PM India website](https://www.pmindia.gov.in/), focusing on various episodes of the "Mann Ki Baat" speeches, using BeautifulSoup.
